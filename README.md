@@ -2,7 +2,7 @@ Vendor blobs for Lenovo A7000-a
 ---------------
 
 * Check device tree here:
-https://github.com/rohantaneja/android_device_lenovo_mt6752.git
+https://github.com/rohantaneja/device_lenovo_aio_row.git
 
 * Compilation
 
@@ -12,6 +12,6 @@ https://github.com/rohantaneja/android_device_lenovo_mt6752.git
         
         # source build/envsetup.sh
         
-        # brunch cm_mt6752-userdebug
+        # brunch cm_aio_row-userdebug
 
 ---------------
