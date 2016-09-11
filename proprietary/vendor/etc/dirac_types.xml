@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Copyright (C) 2012 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!--
+<HeadPhones>
+	<HeadPhone name="Earphone_Meizu_EP20" uuid="12bde129-6b2b-41c6-bba9-c90a9c89709b" />
+</HeadPhones>
+-->
+
+<HeadPhones>
+	<HeadPhone name="Meizu_EP20"
+		uuid="12bde129-6b2b-41c6-bba9-c90a9c89709b">
+	</HeadPhone>
+	<HeadPhone name="Meizu_EP21"
+		uuid="485cd944-6dda-49a6-9ce9-4c18e9a9be64">
+	</HeadPhone>
+	<HeadPhone name="Meizu_EP20s"
+		uuid="9ae5cb70-cdea-4250-8b5a-2e4beb45d070">
+	</HeadPhone>
+	<HeadPhone name="AudioTechnica_ES7"
+		uuid="180d6356-2df7-41b0-b404-8ec728234463">
+	</HeadPhone>
+	<HeadPhone name="AudioTechnica_CKM500"
+		uuid="67d424c7-fc2c-43f1-a417-6c66c54afdad">
+	</HeadPhone>
+	<HeadPhone name="Sennheiser_CX200"
+		uuid="44c83518-4168-4b26-9a4d-5410054632db">
+	</HeadPhone>
+	<HeadPhone name="Sennheiser_IE8i"
+		uuid="75ad0edd-ee7f-47cb-b343-4bc7000ad759">
+	</HeadPhone>
+	<HeadPhone name="Meizu_EP30"
+		uuid="ccb478b4-0da4-496f-89f3-32800fead967">
+	</HeadPhone>
+	<HeadPhone name="Meizu_EP40"
+		uuid="9dab4b7b-95ac-47c0-b431-8b1e99111073">
+	</HeadPhone>
+	<HeadPhone name="Apple_EarPod"
+		uuid="7105ba8b-fef6-4e22-a4eb-4e3ab590ff0c">
+	</HeadPhone>
+	<HeadPhone name="Meizu_EP21HD"
+		uuid="bcdf3c37-648f-4333-bb1d-814630c26a3d">
+	</HeadPhone>
+	<HeadPhone name="AKG_420"
+		uuid="6ae9b5ed-d466-4668-927f-95d1c1603cf8">
+	</HeadPhone>
+	<HeadPhone name="AKG_Y16A"
+		uuid="b7120b50-df22-4a8e-b19b-f76c0b890f2d">
+	</HeadPhone>
+	<HeadPhone name="Beyerdynamic_DT235"
+		uuid="5a0dfa61-57fa-4489-8ce3-67af26fee46f">
+	</HeadPhone>
+	<HeadPhone name="Etymotic_ER-4"
+		uuid="40db7f2d-379e-45b7-91cd-53f088a1c991">
+	</HeadPhone>
+	<HeadPhone name="Sennheiser_MX375"
+		uuid="f45d0fd8-fdf2-4c57-aeff-1c4d07d70b44">
+	</HeadPhone>
+	<HeadPhone name="Beyerdynamic_ DT1350"
+		uuid="6004345c-dd38-45cf-8869-77a8f853264d">
+	</HeadPhone>
+</HeadPhones>
