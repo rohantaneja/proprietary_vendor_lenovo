@@ -2,7 +2,7 @@ Vendor blobs for Lenovo A7000-a
 ---------------
 
 * Check device tree here:
-https://github.com/rohantaneja/device_lenovo_aio_row-nougat.git
+https://github.com/rohantaneja/device_lenovo_aio_row.git
 
 * Compilation
         
@@ -13,4 +13,3 @@ https://github.com/rohantaneja/device_lenovo_aio_row-nougat.git
         # brunch cm_aio_row-userdebug
 
 ---------------
-

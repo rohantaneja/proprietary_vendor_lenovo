@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+    <!-- 整数范例 -->
+    <ExampleInt>100</ExampleInt>
+    <!-- 布尔范例 -->
+    <ExampleBool>true</ExampleBool>
+    <!-- 实数范例 -->
+    <ExampleFloat>-0.5</ExampleFloat>
+    <!-- 字串范例 -->
+    <ExampleString>hello</ExampleString>
+
+    <!-- 【依赖硬件】支持防误触功能开关，默认true开启 -->
+    <!-- <SupportAntiMisOperation>false</SupportAntiMisOperation> -->
+
+    <!-- 【仅供音乐使用】仿ios锁屏音乐控件，默认false关闭 -->
+    <IosMusicController>true</IosMusicController>
+
+    <!-- 【规格还不稳定】快速充电UI，默认true开启 -->
+    <!-- <QuickCharger>false</QuickCharger> -->
+
+    <!-- 缺省封面应用，不指定或指定无效将会被视为使用默认keyguard（主题引擎） -->
+    <!-- <CoverAppComponentDefault>com.lenovo.coverapp.simpletime/com.lenovo.coverapp.simpletime.MainActivity</CoverAppComponentDefault> -->
+
+    <!-- 封面应用控制，使用杀死型还是后台型，默认true（杀死型） -->
+    <CoverAppFinishOrMoveback>false</CoverAppFinishOrMoveback>
+
+    <!-- 封面应用开发模式，默认false -->
+    <CoverAppDevMode>false</CoverAppDevMode>
+    <!-- flag for Secure Camera support，default value is false -->
+    <KeyguardSecureCameraSupport>true</KeyguardSecureCameraSupport>
+
+</Root>

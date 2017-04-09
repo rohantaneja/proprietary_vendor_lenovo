@@ -2,8 +2,6 @@
 PRODUCT_PACKAGES := \
     LiveWallpapers \
     LiveWallpapersPicker \
-    MagicSmokeWallpapers \
-    VisualizationWallpapers \
     librs_jni
 
 # Publish that we support the live wallpaper feature.
